@@ -1,6 +1,6 @@
 # ML_HW1
 
-### student id: 612415013 蕭宥羽
+student id/name: 612415013 蕭宥羽
 
 ## 1. Loss Curve
 ![loss](PIC/resnet_loss_curve.png)
